@@ -168,7 +168,7 @@ author_profile: true
                         </div>
                     </div>
                     <div class="image-column">
-                        <img src="../images/reserach_areas/JAMA Internal Medicine.jpg" alt="JAMA Internal Medicine" class="research-image">
+                        <img src="../images/reserach_areas/JAMA internal medicine.jpg" alt="JAMA Internal Medicine" class="research-image">
                     </div>
                 </div>
             </div>
