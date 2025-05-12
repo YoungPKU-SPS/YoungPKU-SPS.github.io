@@ -138,7 +138,7 @@ author_profile: true
                         <div class="related-publication">
                             <p class="publication-title">Related Publication:</p>
                             <p class="publication-description">Overall and geographic pattern of incidence, fatality and mortality of sepsis among hospitalized non-child cancer patients in China: A nationwide cross-sectional study</p>
-                            <p class="publication-authors">Bin Lu, Yang Xu, Na Li, Yueyang Zhou, Xudong Ma, Yan Chen, Run Dong, Xiang Zhou, Min Dai, Hongda Chen, Li Weng, Bin Du</p>
+                            <p class="publication-authors">Bin Lu, <strong>Yang Xu</strong>, Na Li, Yueyang Zhou, Xudong Ma, Yan Chen, Run Dong, Xiang Zhou, Min Dai, Hongda Chen, Li Weng, Bin Du</p>
                             <p class="publication-journal">Science Bulletin</p>
                             <p class="publication-links">[<a href="https://www.sciencedirect.com/science/article/pii/S2095927324002068?via%3Dihub">paper</a>]</p>
                         </div>
@@ -162,13 +162,13 @@ author_profile: true
                         <div class="related-publication">
                             <p class="publication-title">Related Publication:</p>
                             <p class="publication-description">GLP-1RA vs DPP-4i Use and Rates of Hyperkalemia and RAS Blockade Discontinuation in Type 2 Diabetes</p>
-                            <p class="publication-authors">Tao Huang, Alessandro Bosi, Anne-Laure Faucon, Morgan E. Grams, Arvid Sjölander, Edouard L. Fu, Yang Xu, Juan-Jesus Carrero</p>
+                            <p class="publication-authors">Tao Huang, Alessandro Bosi, Anne-Laure Faucon, Morgan E. Grams, Arvid Sjölander, Edouard L. Fu, <strong>Yang Xu</strong>, Juan-Jesus Carrero</p>
                             <p class="publication-journal">JAMA Internal Medicine</p>
                             <p class="publication-links">[<a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2821737">paper</a>]</p>
                         </div>
                     </div>
                     <div class="image-column">
-                        <img src="../images/reserach_areas/JAMA Internal Medicine.png" alt="JAMA Internal Medicine" class="research-image">
+                        <img src="../images/reserach_areas/JAMA Internal Medicine.jpg" alt="JAMA Internal Medicine" class="research-image">
                     </div>
                 </div>
             </div>
@@ -186,7 +186,7 @@ author_profile: true
                         <div class="related-publication">
                             <p class="publication-title">Related Publication:</p>
                             <p class="publication-description">Stopping renin-angiotensin system inhibitors after hyperkalemia and risk of adverse outcomes</p>
-                            <p class="publication-authors">Yang Xu, Edouard L. Fu, Marco Trevisan Biostat b, Tomas Jernberg, Arvid Sjölander, Catherine M. Clase, Juan-Jesus Carrero</p>
+                            <p class="publication-authors"><strong>Yang Xu</strong>, Edouard L. Fu, Marco Trevisan Biostat b, Tomas Jernberg, Arvid Sjölander, Catherine M. Clase, Juan-Jesus Carrero</p>
                             <p class="publication-journal">American Heart Journal</p>
                             <p class="publication-links">[<a href="https://www.sciencedirect.com/science/article/pii/S0002870321002441?via%3Dihub">paper</a>]</p>
                         </div>
