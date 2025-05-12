@@ -144,7 +144,7 @@ author_profile: true
                         </div>
                     </div>
                     <div class="image-column">
-                        <img src="../images/reserach_areas/Science Bulletin.jpg" alt="Science Bulletin" class="research-image">
+                        <img src="../images/research_areas/Science Bulletin.jpg" alt="Science Bulletin" class="research-image">
                     </div>
                 </div>
             </div>
@@ -168,7 +168,7 @@ author_profile: true
                         </div>
                     </div>
                     <div class="image-column">
-                        <img src="../images/reserach_areas/JAMA internal medicine.jpg" alt="JAMA Internal Medicine" class="research-image">
+                        <img src="../images/research_areas/JAMA internal medicine.jpg" alt="JAMA Internal Medicine" class="research-image">
                     </div>
                 </div>
             </div>
@@ -192,7 +192,7 @@ author_profile: true
                         </div>
                     </div>
                     <div class="image-column">
-                        <img src="../images/reserach_areas/American Heart Journal.jpg" alt="American Heart Journal" class="research-image">
+                        <img src="../images/research_areas/American Heart Journal.jpg" alt="American Heart Journal" class="research-image">
                     </div>
                 </div>
             </div>
